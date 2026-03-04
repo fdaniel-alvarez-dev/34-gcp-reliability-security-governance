@@ -1,4 +1,4 @@
-# 34-freestar-senior-devops-engineer
+# 34-data-governance-blueprint
 
 A reference data platform blueprint with pragmatic governance: quality checks, lineage, access controls, and CI for data assets.
 
